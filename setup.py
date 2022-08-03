@@ -17,6 +17,7 @@ setup(name='Mosquitoes Project Josh Mitton Thesis',
                         'matplotlib>=3.1.1',
                         'sklearn>=0.24.2',
                         'umap-learn>=0.5.3',
+                        'h5py>=2.10.0',
                         'scipy>=1.6.0'],
       package_data={'Mosquitoes-CNN': ['README.md']},
       packages=find_packages())
